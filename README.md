@@ -10,15 +10,11 @@
 ## 🔧 技能  
 - **编程语言**:  
   ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
-  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-  ...（更多技能）
-
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - **框架/工具**:  
-  ![.NET](https://img.shields.io/badge/-dotnet-512BD4?logo=dotnet&logoColor=white)  
+  ![.NET](https://img.shields.io/badge/-dotnet-512BD4?logo=dotnet&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-  ...（更多工具）
-
 ---
 
 ## 🖥️ 项目展示  
