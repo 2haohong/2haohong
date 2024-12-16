@@ -8,10 +8,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2haohong)
 
 ## 🔧 技能  
-- **编程语言**:  
+
+- **数据库**:  
   ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+
+- **编程语言**:  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
   ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 - **框架/工具**:  
   ![.NET](https://img.shields.io/badge/-dotnet-512BD4?logo=dotnet&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
