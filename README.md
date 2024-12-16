@@ -21,14 +21,8 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
 ---
 
-## 🖥️ 项目展示  
-### 🌟 [项目名称](项目链接)  
-项目描述：简要介绍项目的功能和技术栈。  
-主要技术：`Python`、`Flask`、`Bootstrap`  
-
-### 🌟 [另一个项目名称](项目链接)  
-项目描述：简要介绍项目的功能和技术栈。  
-主要技术：`C#`、`.NET`、`SQL Server`  
+## 🖥️ Project  
+暂未整理
 
 ---
 
@@ -39,7 +33,6 @@
 
 ---
 
-⭐️ **欢迎访问我的 GitHub 主页！如果觉得我的项目不错，请给我一个 Star 支持！** ⭐️
 
 
 
