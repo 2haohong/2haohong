@@ -13,7 +13,7 @@
   ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 - **编程语言**:  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
   ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 
 - **框架/工具**:  
