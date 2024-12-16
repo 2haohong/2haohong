@@ -9,7 +9,7 @@
 
 ## 🔧 技能  
 - **编程语言**:  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+  ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
   ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
   ...（更多技能）
