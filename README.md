@@ -29,7 +29,7 @@
 ## 📫 联系方式  
 - 邮箱: [jsonzx@qq.com](mailto:jsonzx@qq.com)  
 - 微信: 可扫码加我好友 👇  
-  <img src="你的微信二维码图片链接" alt="微信二维码" width="150"/>
+  <img src="Images/wxQr.png" alt="微信二维码" width="150"/>
 
 ---
 
